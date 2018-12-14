@@ -6,7 +6,7 @@ using Skillz.Models;
 namespace SkillzTest
 {
     [TestClass]
-    public class UnitTest1
+    public class User_Test
     {
         [TestMethod]
         public void Test_Connexion_DB()
