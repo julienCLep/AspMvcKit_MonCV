@@ -1,0 +1,29 @@
+﻿body {
+    height:100%;
+}
+
+h1 {
+    border-bottom: 1px solid #111;
+}
+
+#logo {
+    height:60px;
+}
+
+#header {
+    
+}
+
+#main {
+    margin-top: 110px;
+    border: 1px solid #111;
+    border-radius: 5px;
+}
+
+#footer {
+    position:fixed;
+    bottom:0;
+    width: 100%;
+    min-height: 50px;
+    background-color: #cccccc;
+}
